@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="composer_category">
+	    <item>Albeniz</item>
+	    <item>Anderson, Leroy</item>
+	    <item>Anonymous</item>
+	    <item>Arensky</item>
+	    <item>Bach</item>
+	    <item>Barber</item>
+	    <item>Beethoven</item>
+	    <item>Bellini</item>
+	    <item>Berlin, Irving</item>
+	    <item>Berlioz</item>
+	    <item>Bernard, Felix</item>
+	    <item>Bernstein, Leonard</item>
+	    <item>Bizet</item>
+	    <item>Borodin</item>
+	    <item>Brahms</item>
+	    <item>Britten</item>
+	    <item>Bruch</item>
+	    <item>Bruckner</item>
+	    <item>Chausson</item>
+	    <item>Chopin</item>
+	    <item>Cimarosa Domenico</item>
+	    <item>Coots</item>
+	    <item>Copland, Aaron</item>
+	    <item>Debussy</item>
+	    <item>De Corminer</item>
+	    <item>De la Monnoye</item>
+	    <item>Donizetti</item>
+	    <item>Dvorak</item>
+	    <item>Elgar</item>
+	    <item>Faith, Percy</item>
+	    <item>Faure</item>
+	    <item>Field, John</item>
+	    <item>Foster, Stephen</item>
+	    <item>Gershwin</item>
+	    <item>Gould, Morton</item>
+	    <item>Gounod</item>
+	    <item>Grieg</item>
+	    <item>Gauntlett</item>
+	    <item>Grofe</item>
+	    <item>Gruber</item>
+	    <item>Gluck</item>
+	    <item>Handel</item>
+	    <item>Haydn</item>
+	    <item>Herrick, Robert</item>
+	    <item>Holst</item>
+	    <item>Hopkins</item>
+	    <item>Humperdinck</item>
+	    <item>Jessel, Leon</item>
+	    <item>Kabalevsky</item>
+	    <item>Khachaturian</item>
+	    <item>Kirkpatrick</item>
+	    <item>Kreisler</item>
+	    <item>Lalo</item>
+	    <item>Lehar</item>
+	    <item>Leontovich</item>
+	    <item>Liszt</item>
+	    <item>Lotti, Antonio</item>
+	    <item>Marcello, Alessandro</item>
+	    <item>Mahler</item>
+	    <item>Marks, Johnny</item>
+	    <item>Mascagni</item>
+	    <item>Massenet</item>
+	    <item>Mendelssohn</item>
+	    <item>Mozart</item>
+	    <item>Mozart, Leopold</item>
+	    <item>Mussorgsky</item>
+	    <item>Offenbach</item>
+	    <item>Ord, Boris</item>
+	    <item>Orff</item>
+	    <item>Pachelbel</item>
+	    <item>Paderewski</item>
+	    <item>Paganini</item>
+	    <item>Prokofiev</item>
+	    <item>Puccini</item>
+	    <item>Purcell</item>
+	    <item>Ravel</item>
+	    <item>Rachmaninov</item>
+	    <item>Redner</item>
+	    <item>Respighi</item>
+	    <item>Rimsky-Korsakov</item>
+	    <item>Rodrigo</item>
+	    <item>Rossini</item>
+	    <item>Saint-saens</item>
+	    <item>Sammartini, Giuseppe</item>
+	    <item>Sarasate</item>
+	    <item>Satie</item>
+	    <item>Scarlatti, Alessandro</item>
+	    <item>Scarlatti, Domenico</item>
+	    <item>Schoenberg</item>
+	    <item>Schubert</item>
+	    <item>Schumann</item>
+	    <item>Scott, Raymond</item>
+	    <item>Shostakovich</item>
+	    <item>Sibelius</item>
+	    <item>Smetana</item>
+	    <item>Sousa</item>
+	    <item>Strauss, J. I</item>
+	    <item>Strauss, J. II</item>
+	    <item>Strauss, R.</item>
+	    <item>Stravinsky</item>
+	    <item>Suppe</item>
+	    <item>Sviridov</item>
+	    <item>Tchaikovsky</item>
+	    <item>Tarrega</item>
+	    <item>Telemann</item>
+	    <item>Tosti</item>
+	    <item>Traditional</item>
+	    <item>Varese</item>
+	    <item>Vaughan Williams</item>
+	    <item>Verdi</item>
+	    <item>Vivaldi</item>
+	    <item>Wade</item>
+	    <item>Wagner</item>
+	    <item>Waldteufel</item>
+	    <item>Weber</item>
+	    <item>Willis</item>
+	</string-array>
+	<string-array name="genre_category">
+	    <item>All Music</item>
+		<item>Symphonic</item>
+		<item>Orchestral</item>
+		<item>Concerto</item>
+		<item>Chamber</item>
+		<item>Solo</item>
+		<item>Vocal Music</item>
+		<item>Opera</item>
+		<item>Jazz</item>
+		<item>Film Music</item>
+	</string-array>
+	<string-array name="search_method">
+	    <item>Category</item>
+		<item>Composer</item>
+		<item>Keyword</item>
+	</string-array>
+	<string-array name="background_drawable">
+		<item>main_background01</item>
+		<item>main_background02</item>
+		<item>main_background03</item>
+		<item>main_background04</item>
+		<item>main_background05</item>
+		<item>main_background06</item>
+		<item>main_background07</item>
+		<item>main_background08</item>
+		<item>main_background09</item>
+		<item>main_background10</item>
+		<item>main_background11</item>
+		<item>main_background12</item>
+		<item>main_background13</item>
+		<item>main_background14</item>
+		<item>main_background15</item>
+		<item>main_background16</item>
+		<item>main_background17</item>
+		<item>main_background18</item>
+		<item>main_background19</item>
+		<item>main_background20</item>
+		<item>main_background21</item>
+		<item>main_background22</item>
+		<item>main_background23</item>
+		<item>main_background24</item>
+		<item>main_background25</item>
+		<item>main_background26</item>
+		<item>main_background27</item>
+		<item>main_background28</item>
+		<item>main_background29</item>
+		<item>main_background30</item>
+		<item>main_background31</item>
+		<item>main_background32</item>
+		<item>main_background33</item>
+		<item>main_background34</item>
+		<item>main_background35</item>
+		<item>main_background36</item>
+		<item>main_background37</item>
+		<item>main_background38</item>
+		<item>main_background39</item>
+		<item>main_background40</item>
+	</string-array>
+	<string-array name="select_dialog_items">
+	    <item>Gallery</item>
+	    <item>Camera</item>
+		<item>Cancel</item>
+	</string-array>
+</resources>

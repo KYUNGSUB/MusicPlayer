@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">고전음악감상</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hint_id">아이디(이메일)</string>
+    <string name="hint_password">비밀번호</string>
+    <string name="hint_password_verify">비밀번호 확인</string>
+    <string name="hint_name">홍길동</string>
+    <string name="hint_mobile">휴대폰번호(- 없이 입력, 이어서)</string>
+    <string name="help_id_input">아이디를 입력하세요</string>
+    <string name="help_password_input">비밀번호를 입력하세요.</string>
+    <string name="help_password2_input">비밀번호 확인을 입력하세요.</string>
+    <string name="help_username_input">이름을 입력하세요.</string>
+    <string name="help_mobile_input">휴대폰 번호를 입력하세요.</string>
+    <string name="help_password_not_equal">비밀번호가 다릅니다.</string>
+    <string name="help_success_signup">회원가입 성공</string>
+    <string name="help_failure_signup">회원가입 실패</string>
+    <string name="duplication_check_btn">중복검사</string>
+    <string name="help_non_duplicated_id">사용 가능한 아이디 입니다.</string>
+    <string name="help_use_duplicate_check">아이디 중복검사를 해주세요.</string>
+    <string name="help_is_duplicated_id">사용중인 아이디 입니다.</string>
+    <string name="help_check_input_data">입력 정보를 확인해 주세요.</string>
+    <string name="help_login_success">로그인 성공</string>
+    <string name="help_logout_success">로그아웃 성공</string>
+    <string name="title_db_upgrade_progress">서버로부터 데이터를 가져오는 중</string>
+    <string name="msg_db_upgrade_progress">잠시만 기다려 주십시요!</string>
+    <string name="complete_data_download">데이터 다운로드가 완료 되었습니다.</string>
+    <string name="help_player">[도움말]\n
+        1. 음악검색 화면(창)에서 음악 다운로드\n
+        2. 로드된것 화면(창)에서 playlist 추가\n
+        - 즐겨찾기 추가\n
+        - 스피너 버튼 감추기/보여주기\n
+		3. Player 화면(창)에서 음악 감상\n
+		- 반복 : 전곡, 한번, 해제\n
+		- 순서 : 랜덤, 순차적\n
+		- 볼륨 조절\n
+		- 이전곡, play, pause, continue, stop, 다음곡\n
+		- 현재곡 듣기\n
+		- 현재곡 즐겨찾기 삭제\n
+		서버가 불안정할 수 있더라도 너그럽게 양해해 주십시요</string>
+    <string name="min_volume_label">최소</string>
+    <string name="max_volume_label">최대</string>
+    <string name="title_menu_favorite">즐겨듣기</string>
+    <string name="common_menu">공통</string>
+    <string name="company_name">달란트</string>
+    <string name="homepage_url">http://talanton.kr</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="prompt_search_category">검색방법을 선택하세요</string>
+    <string name="prompt_main_spin">음악 주 분류를 선택하세요</string>
+    <string name="prompt_sub_spin">음악 부 분류를 선택하세요</string>
+    <string name="prompt_composer_spin">작곡가 선택?</string>
+    <string name="prompt_genre_spin">장르 선택?</string>
+    <string name="label_search_start">검색 시작</string>
+    <string name="hint_keyword_input">사계</string>
+    <string name="guide_on_playing">듣기중에는 허용되지 않음!</string>
+    <string name="guide_keyword_input">키워드를 입력 하세요!</string>
+    <string name="menu_add_playlist">즐겨듣기</string>
+    <string name="run_service_notification">동작 중!</string>
+    <string name="help_add_bookmark">즐겨찾기를 추가 하십시요!</string>
+    <string name="guide_on_busy">통화중에는 동작을 하지 않습니다!</string>
+    <string name="title_push_message_rx">서비스 안내</string>
+    <string name="guide_stop_listen_music">음악듣기를 멈춥니다!</string>
+    <string name="finish_pre_listen">서비스 가입 후 이용해 주십시요</string>
+    <string name="finish_music_play">음악 듣기가 완료 되었습니다!</string>
+    <string name="delete_bookmark_complete">즐겨찾기에서 삭제 되었습니다!</string>
+    <string name="change_bookmark_complete">즐겨찾기를 변경 하였습니다!</string>
+    <string name="menu_addall">전체 추가</string>
+    <string name="menu_delall">전체 삭제</string>
+    <string name="guide_no_selected_song">선택된 곡이 없습니다!</string>
+    <string name="we_need_login">로그인 후 이용해 주십시요.</string>
+    <string name="title_communication_error">통신 에러</string>
+    <string name="msg_communication_error">서버와 통신 할수 없습니다.\n추후 이용하십시요.</string>
+    <string name="confirm_msg">확인</string>
+    <string name="title_permission_acknowledge">알립니다.</string>
+    <string name="msg_permission_acknowledge">권한에 대한 승인이 필요합니다.</string>
+</resources>

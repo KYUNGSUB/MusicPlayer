@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/signup_background"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/textId"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:hint="@string/hint_id"
+                android:textColor="@color/context_foreground"
+                android:inputType="textEmailAddress"
+                android:background="@drawable/signup_email_in" />
+            <com.talanton.music.player.widget.TitleBitmapButton
+                android:id="@+id/duplicationCheck"
+                android:layout_width="wrap_content"
+                android:layout_height="52dp"
+                android:text="@string/duplication_check_btn"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:textColor="#ff420000"/>
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="5dp"
+            android:hint="@string/hint_password"
+            android:textColor="@color/context_foreground"
+            android:inputType="textPassword"
+            android:background="@drawable/signup_email_in" />
+
+        <EditText
+            android:id="@+id/textPassword2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="5dp"
+            android:hint="@string/hint_password_verify"
+            android:textColor="@color/context_foreground"
+            android:inputType="textPassword"
+            android:background="@drawable/signup_email_in" />
+
+        <EditText
+            android:id="@+id/textName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="5dp"
+            android:hint="@string/hint_name"
+            android:textColor="@color/context_foreground"
+            android:inputType="text"
+            android:background="@drawable/signup_email_in" />
+
+        <EditText
+            android:id="@+id/textMobile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="5dp"
+            android:hint="@string/hint_mobile"
+            android:textColor="@color/context_foreground"
+            android:inputType="phone"
+            android:background="@drawable/signup_email_in" />
+
+        <ImageButton
+            android:id="@+id/btnSignupExecution"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/signup_id_password" />
+
+        <ImageButton
+            android:id="@+id/btnViaFacebook"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/signup_facebook" />
+
+        <ImageButton
+            android:id="@+id/btnViaKakao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/signup_kakao" />
+
+        <ImageButton
+            android:id="@+id/btnReturnSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/return_to_signin" />
+
+    </LinearLayout>
+</ScrollView>

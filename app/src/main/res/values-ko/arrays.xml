@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="composer_category">
+		<item>가운틀렛</item>
+		<item>거슈인</item>
+		<item>구노</item>
+		<item>그로페</item>
+		<item>그루버</item>
+		<item>그리그</item>
+		<item>글루크</item>
+		<item>도니제티</item>
+		<item>도메니코 스카를라티</item>
+		<item>드 라 모노예</item>
+		<item>드보르자크</item>
+		<item>드뷔시</item>
+		<item>드 코르미에</item>
+		<item>라벨</item>
+		<item>라흐마니노프</item>
+		<item>랄로</item>
+		<item>레너드 번스타인</item>
+		<item>레드너</item>
+		<item>레스피기</item>
+		<item>레오폴트 모차르트</item>
+		<item>레온 예셀</item>
+		<item>레온토비치</item>
+		<item>레이몬드 스콧</item>
+		<item>레하르</item>
+		<item>로드리고</item>
+		<item>로버트 헤릭</item>
+		<item>로시니</item>
+		<item>르로이 앤더슨</item>
+		<item>리스트</item>
+		<item>림스키-코르사코프</item>
+		<item>마스네</item>
+		<item>마스카니</item>
+		<item>말러</item>
+		<item>멘델스존</item>
+		<item>모차르트</item>
+		<item>모턴 굴드</item>
+		<item>무소륵스키</item>
+		<item>미상</item>
+		<item>바레즈</item>
+		<item>바버</item>
+		<item>바흐</item>
+		<item>바그너</item>
+		<item>발트토이펠</item>
+		<item>베르디</item>
+		<item>베를리오즈</item>
+		<item>베버</item>
+		<item>베토벤</item>
+		<item>벨리니</item>
+		<item>보로딘</item>
+		<item>보리스 오드</item>
+		<item>본 윌리암스</item>
+		<item>브람스</item>
+		<item>브루크너</item>
+		<item>브루흐</item>
+		<item>브리튼</item>
+		<item>비발디</item>
+		<item>비제</item>
+		<item>사라사테</item>
+		<item>사티</item>
+		<item>생상스</item>
+		<item>쇤베르크</item>
+		<item>쇼스타코비치</item>
+		<item>쇼송</item>
+		<item>쇼팽</item>
+		<item>슈만</item>
+		<item>슈베르트</item>
+		<item>수자</item>
+		<item>스비리도프</item>
+		<item>스메타나</item>
+		<item>스트라빈스키</item>
+		<item>스티븐 포스터</item>
+		<item>시벨리우스</item>
+		<item>아론 코플런드</item>
+		<item>아렌스키</item>
+		<item>안토니오 로티</item>
+		<item>알레산드로 마르첼로</item>
+		<item>알레산드로 스카를라티</item>
+		<item>알베니즈</item>
+		<item>어빙 베를린</item>
+		<item>엘가</item>
+		<item>오르프</item>
+		<item>오펜바흐</item>
+		<item>웨이드</item>
+		<item>윌리스</item>
+		<item>전래곡</item>
+		<item>조니 마크스</item>
+		<item>존 필드</item>
+		<item>존 헨리 홉킨스</item>
+		<item>주세페 삼마르티니</item>
+		<item>주페</item>
+		<item>차이콥스키</item>
+		<item>치마로사</item>
+		<item>카발렙스키</item>
+		<item>커크패트릭</item>
+		<item>크라이슬러</item>
+		<item>타레가</item>
+		<item>텔레만</item>
+		<item>토스티</item>
+		<item>파헬벨</item>
+		<item>파데레프스키</item>
+		<item>파가니니</item>
+		<item>프로코피예프</item>
+		<item>푸치니</item>
+		<item>퍼셀</item>
+		<item>퍼시 페이스</item>
+		<item>펠릭스 버나드</item>
+		<item>포레</item>
+		<item>프레드 쿠츠</item>
+		<item>헨델</item>
+		<item>하이든</item>
+		<item>하차투리안</item>
+		<item>홀스트</item>
+		<item>훔퍼딩크</item>
+		<item>J. 슈트라우스 I</item>
+		<item>J. 슈트라우스 II</item>
+		<item>R. 슈트라우스</item>
+	</string-array>
+	<string-array name="genre_category">
+	    <item>모든 곡</item>
+		<item>교향곡</item>
+		<item>관현악곡</item>
+		<item>협주곡</item>
+		<item>실내악</item>
+		<item>독주곡</item>
+		<item>성악곡</item>
+		<item>오페라</item>
+		<item>재즈</item>
+		<item>영화음악</item>
+	</string-array>
+    <string-array name="search_method">
+	    <item>분류체계</item>
+		<item>작곡가/장르</item>
+		<item>검색어</item>
+	</string-array>
+</resources>

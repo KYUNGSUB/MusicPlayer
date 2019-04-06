@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_delall"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_notification_clear_all"
+        android:title="@string/menu_delall"
+        />
+    <item
+        android:id="@+id/menu_shuffle_off"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_mp_shuffle_off_btn"
+        android:title="@string/menu_shuffle_off"
+        />
+    <item
+        android:id="@+id/menu_shuffle_on"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_mp_shuffle_on_btn"
+        android:title="@string/menu_shuffle_on"
+        />
+    <item
+        android:id="@+id/menu_repeat_all"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_mp_repeat_all_btn"
+        android:title="@string/menu_repeat_all"
+        />
+    <item
+        android:id="@+id/menu_repeat_off"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_mp_repeat_off_btn"
+        android:title="@string/menu_repeat_off"
+        />
+    <item
+        android:id="@+id/menu_repeat_once"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_mp_repeat_once_btn"
+        android:title="@string/menu_repeat_once"
+        />
+
+</menu>

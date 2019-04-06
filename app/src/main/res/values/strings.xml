@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Classic Music</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hint_id">아이디(이메일)</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_password_verify">Password Confirm</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_mobile">01022223333</string>
+    <string name="help_id_input">input ID, please!</string>
+    <string name="help_password_input">input password, please!</string>
+    <string name="help_password2_input">input password confirm, please!</string>
+    <string name="help_username_input">input name, please!</string>
+    <string name="help_mobile_input">input mobile number, please!</string>
+    <string name="help_password_not_equal">input same password, please!</string>
+    <string name="help_success_signup">succeed signup</string>
+    <string name="help_failure_signup">fail signup</string>
+    <string name="duplication_check_btn">Check</string>
+    <string name="help_non_duplicated_id">possibke ID</string>
+    <string name="help_use_duplicate_check">check ID duplication, please</string>
+    <string name="help_is_duplicated_id">already used ID</string>
+    <string name="help_check_input_data">check input data</string>
+    <string name="help_login_success">login success</string>
+    <string name="help_logout_success">logout success</string>
+    <string name="title_db_upgrade_progress">On data downloading from Server</string>
+    <string name="msg_db_upgrade_progress">Wait a moment, please!</string>
+    <string name="complete_data_download">Good, data download completed!</string>
+    <string name="help_player">[Help]\n
+        1. In the music search screen, download music\n
+        2. In the loaded screen, add music to playlist\n
+        - Add items\n
+        - Hide/Show spinner buttons\n
+		3. In the Player menu listening to music\n
+		- Repeat : All, Once, Off\n
+		- Order : Random, Sequential\n
+		- Volume Control\n
+		- Previous, play, pause, continue, stop, Next\n
+		- Play this music only\n
+		- Remove this music in the favorite list\n
+		Please note that even if the server can tolerate instability</string>
+    <string name="min_volume_label">Min.</string>
+    <string name="max_volume_label">Max.</string>
+    <string name="title_menu_favorite">Play List</string>
+    <string name="common_menu">Common</string>
+    <string name="company_name">Talanton</string>
+    <string name="homepage_url">http://talanton.kr</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="prompt_search_category">Category of Search Condition?</string>
+    <string name="prompt_main_spin">Select Main Category</string>
+    <string name="prompt_sub_spin">Select Sub Category</string>
+    <string name="prompt_composer_spin">Select Composer?</string>
+    <string name="prompt_genre_spin">Select Genre?</string>
+    <string name="label_search_start">Search Start</string>
+    <string name="hint_keyword_input">Rhapsody</string>
+    <string name="menu_spinner" translatable="false">Expander</string>
+    <string name="guide_on_playing">Not permitted operation!</string>
+    <string name="guide_keyword_input">Input keyword!</string>
+    <string name="help_add_bookmark">Please, add favorites!</string>
+    <string name="guide_on_busy">Busy is not the behavior of!</string>
+    <string name="title_activity_playlist" translatable="false">Play List</string>
+    <string name="menu_add_playlist">Playlist</string>
+    <string name="key_background_display_mode" translatable="false">background_mode</string>
+    <string name="label_is_running" translatable="false">is running!</string>
+    <string name="run_service_notification">On Playing!</string>
+    <string name="title_push_message_rx">Notification for Service</string>
+    <string name="title_finish_music_confirm" translatable="false">Really, Quit?</string>
+    <string name="guide_stop_listen_music">Will stop listening to music!</string>
+    <string name="finish_pre_listen">Subscribe service, please!</string>
+    <string name="finish_music_play">Listening to music has been completed!</string>
+    <string name="change_bookmark_complete">Bookmark change completed!</string>
+    <string name="delete_bookmark_complete">Bookmark deletion completed!</string>
+    <string name="menu_addall">add all</string>
+    <string name="menu_delall">del all</string>
+    <string name="menu_shuffle_off" translatable="false">shuffle off</string>
+    <string name="menu_shuffle_on" translatable="false">shuffle on</string>
+    <string name="menu_repeat_all" translatable="false">repeat all</string>
+    <string name="menu_repeat_off" translatable="false">repeat off</string>
+    <string name="menu_repeat_once" translatable="false">repeat once</string>
+    <string name="guide_no_selected_song">No song selected!</string>
+    <string name="we_need_login">we need your login, please</string>
+    <string name="title_communication_error">Communication Error</string>
+    <string name="msg_communication_error">Cannot communicate with Server\nUse later, please</string>
+    <string name="confirm_msg">Confirm</string>
+    <string name="title_permission_acknowledge">Notification</string>
+    <string name="msg_permission_acknowledge">We need acknowledge risk permission.</string>
+</resources>
